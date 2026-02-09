@@ -1,0 +1,54 @@
+{
+    "scholarship_name": "ukaanotice",
+    "full_text": "l li 1i ii INf,D U Of,ENJ   T'f,C,HNO D,f,P Of',,STUDf,JJTS' Dated: -24-A4-2025No.DSAsff sso67 TYF oTIN RT 5 The Board of Trustees \" Selection of UNIVERSITY OF KARAcHI ALI.IMNI ASSOCIA'ION (tlKAA) Baltimore, Washington Metropolitan Area, USA hasbeen olI'ering M A11 Departmentserit-cum-Need scholarships for the year 2025. First to lrinal The regular students afeinvitingto submit their applications online (with required documents) through website : https : ukaa-scholarships'com 'l'hc I.IKAA-Scholarship rvebsite  portal u'i1l open for submitting applications liom April zft 2025 titl Jun 30th 2025' No ph,vsical application will be entertained' For any informationCommittee Karachi-7 5210,Dr. Shamim A. Qureshi, Kindly display the attached noticeofscholarshiP on the deParlmental notice board. N.B.l-The application fbrm completed in al1 respect must be considered and enterlained 2-Stuclents admitrecl undei Self F'inancl scheme afe not eligible fbr this scholarship. 3-The applicants must not getting scholarship  financial assistzrncc lt'om any othcr sourcc. Copy to: Concerned Class Advisors (through Respective Chairpersons)Student Affairsiio Contact: 0324-3399053 ('I'iming: 11am' to 3pm)' L,mail : info iouhaa-scholarships'comll",
+    "chunks_by_characters": [
+        {
+            "chunk_id": 0,
+            "text": "l li 1i ii INf,D U Of,ENJ   T'f,C,HNO D,f,P Of',,STUDf,JJTS' Dated: -24-A4-2025No.DSAsff sso67 TYF oTIN RT 5 The Board of Trustees \" Selection of UNIVERSITY OF KARAcHI ALI.IMNI ASSOCIA'ION (tlKAA) Baltimore, Washington Metropolitan Area, USA hasbeen olI'ering M A11 Departmentserit-cum-Need scholarships for the year 2025. First to lrinal The regular students afeinvitingto submit their applications online (with required documents) through website : https : ukaa-scholarships'com 'l'hc I.IKAA-Schola",
+            "start_pos": 0,
+            "end_pos": 500,
+            "length": 500
+        },
+        {
+            "chunk_id": 1,
+            "text": "online (with required documents) through website : https : ukaa-scholarships'com 'l'hc I.IKAA-Scholarship rvebsite  portal u'i1l open for submitting applications liom April zft 2025 titl Jun 30th 2025' No ph,vsical application will be entertained' For any informationCommittee Karachi-7 5210,Dr. Shamim A. Qureshi, Kindly display the attached noticeofscholarshiP on the deParlmental notice board. N.B.l-The application fbrm completed in al1 respect must be considered and enterlained 2-Stuclents admi",
+            "start_pos": 400,
+            "end_pos": 900,
+            "length": 500
+        },
+        {
+            "chunk_id": 2,
+            "text": ".l-The application fbrm completed in al1 respect must be considered and enterlained 2-Stuclents admitrecl undei Self F'inancl scheme afe not eligible fbr this scholarship. 3-The applicants must not getting scholarship  financial assistzrncc lt'om any othcr sourcc. Copy to: Concerned Class Advisors (through Respective Chairpersons)Student Affairsiio Contact: 0324-3399053 ('I'iming: 11am' to 3pm)' L,mail : info iouhaa-scholarships'comll",
+            "start_pos": 800,
+            "end_pos": 1238,
+            "length": 438
+        },
+        {
+            "chunk_id": 3,
+            "text": ",mail : info iouhaa-scholarships'comll",
+            "start_pos": 1200,
+            "end_pos": 1238,
+            "length": 38
+        }
+    ],
+    "chunks_by_sentences": [
+        {
+            "chunk_id": 0,
+            "text": "l li 1i ii INf,D U Of,ENJ   T'f,C,HNO D,f,P Of',,STUDf,JJTS' Dated: -24-A4-2025No.DSAsff sso67 TYF oTIN RT 5 The Board of Trustees \" Selection of UNIVERSITY OF KARAcHI ALI.IMNI ASSOCIA'ION (tlKAA) Baltimore, Washington Metropolitan Area, USA hasbeen olI'ering M A11 Departmentserit-cum-Need scholarships for the year 2025. First to lrinal The regular students afeinvitingto submit their applications online (with required documents) through website : https : ukaa-scholarships'com 'l'hc I.IKAA-Scholarship rvebsite  portal u'i1l open for submitting applications liom April zft 2025 titl Jun 30th 2025' No ph,vsical application will be entertained' For any informationCommittee Karachi-7 5210,Dr. Shamim A.",
+            "sentence_range": "0-3",
+            "length": 705
+        },
+        {
+            "chunk_id": 1,
+            "text": "Qureshi, Kindly display the attached noticeofscholarshiP on the deParlmental notice board. N.B.l-The application fbrm completed in al1 respect must be considered and enterlained 2-Stuclents admitrecl undei Self F'inancl scheme afe not eligible fbr this scholarship. 3-The applicants must not getting scholarship  financial assistzrncc lt'om any othcr sourcc.",
+            "sentence_range": "3-6",
+            "length": 358
+        },
+        {
+            "chunk_id": 2,
+            "text": "Copy to: Concerned Class Advisors (through Respective Chairpersons)Student Affairsiio Contact: 0324-3399053 ('I'iming: 11am' to 3pm)' L,mail : info iouhaa-scholarships'comll",
+            "sentence_range": "6-7",
+            "length": 173
+        }
+    ]
+}
