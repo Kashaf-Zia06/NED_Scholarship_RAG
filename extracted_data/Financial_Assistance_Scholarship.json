@@ -1,0 +1,71 @@
+{
+    "scholarship_name": "Financial_Assistance_Scholarship",
+    "full_text": "Ned University Of Engineering  Technology Department of StuDentS affairS No. DSA63272807 Dated: 27-08-2025 FRESH CASES FINANCIAL ASSISTANCE  SCHOLARSHIP  2025-2026. All the deserving students from First Year of E ngg BSArch. Departments who intend to avail financial assistance  scholarship on Need -cum-Merit Basis are hereby advised to submit prescribed application form along -with the following relevant documents to this office through their respective Class Advi sor  Chairperson latest by 18-09-2025 positively. 1. Mark Certificate(s) of S.S.C  H.Sc and B.Sc. 2. i. Salary certificate of father  guardian, if employed. ii. Updated pension Book of father  guardian, if retir ed. iii. In case of father  guardian has business an affidavit if income verification in original . 3. National I.D. Card  B Form of all dependents. 4. University identity Card. In complete applications will not be entertained. Controller Students Affairs NB:- Students admitted under Self Finance Category are not eligible. Encl: Prescribed Application Form.",
+    "chunks_by_characters": [
+        {
+            "chunk_id": 0,
+            "text": "Ned University Of Engineering  Technology Department of StuDentS affairS No. DSA63272807 Dated: 27-08-2025 FRESH CASES FINANCIAL ASSISTANCE  SCHOLARSHIP  2025-2026. All the deserving students from First Year of E ngg BSArch. Departments who intend to avail financial assistance  scholarship on Need -cum-Merit Basis are hereby advised to submit prescribed application form along -with the following relevant documents to this office through their respective Class Advi sor  Chairperson latest by 18-0",
+            "start_pos": 0,
+            "end_pos": 500,
+            "length": 500
+        },
+        {
+            "chunk_id": 1,
+            "text": "elevant documents to this office through their respective Class Advi sor  Chairperson latest by 18-09-2025 positively. 1. Mark Certificate(s) of S.S.C  H.Sc and B.Sc. 2. i. Salary certificate of father  guardian, if employed. ii. Updated pension Book of father  guardian, if retir ed. iii. In case of father  guardian has business an affidavit if income verification in original . 3. National I.D. Card  B Form of all dependents. 4. University identity Card. In complete applications will not be ente",
+            "start_pos": 400,
+            "end_pos": 900,
+            "length": 500
+        },
+        {
+            "chunk_id": 2,
+            "text": "rd  B Form of all dependents. 4. University identity Card. In complete applications will not be entertained. Controller Students Affairs NB:- Students admitted under Self Finance Category are not eligible. Encl: Prescribed Application Form.",
+            "start_pos": 800,
+            "end_pos": 1040,
+            "length": 240
+        }
+    ],
+    "chunks_by_sentences": [
+        {
+            "chunk_id": 0,
+            "text": "Ned University Of Engineering  Technology Department of StuDentS affairS No. DSA63272807 Dated: 27-08-2025 FRESH CASES FINANCIAL ASSISTANCE  SCHOLARSHIP  2025-2026. All the deserving students from First Year of E ngg BSArch.",
+            "sentence_range": "0-3",
+            "length": 224
+        },
+        {
+            "chunk_id": 1,
+            "text": "Departments who intend to avail financial assistance  scholarship on Need -cum-Merit Basis are hereby advised to submit prescribed application form along -with the following relevant documents to this office through their respective Class Advi sor  Chairperson latest by 18-09-2025 positively. 1. Mark Certificate(s) of S.S.C  H.Sc and B.Sc.",
+            "sentence_range": "3-6",
+            "length": 341
+        },
+        {
+            "chunk_id": 2,
+            "text": "2. i. Salary certificate of father  guardian, if employed.",
+            "sentence_range": "6-9",
+            "length": 58
+        },
+        {
+            "chunk_id": 3,
+            "text": "ii. Updated pension Book of father  guardian, if retir ed. iii.",
+            "sentence_range": "9-12",
+            "length": 63
+        },
+        {
+            "chunk_id": 4,
+            "text": "In case of father  guardian has business an affidavit if income verification in original . 3. National I.D.",
+            "sentence_range": "12-15",
+            "length": 107
+        },
+        {
+            "chunk_id": 5,
+            "text": "Card  B Form of all dependents. 4. University identity Card.",
+            "sentence_range": "15-18",
+            "length": 60
+        },
+        {
+            "chunk_id": 6,
+            "text": "In complete applications will not be entertained. Controller Students Affairs NB:- Students admitted under Self Finance Category are not eligible. Encl: Prescribed Application Form.",
+            "sentence_range": "18-21",
+            "length": 181
+        }
+    ]
+}
