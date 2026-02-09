@@ -1,0 +1,60 @@
+{
+    "scholarship_name": "majeescholarship",
+    "full_text": "Ned University Of Engineering  Technology Department of StuDentS affairS No. DSA70097 Dated: 18-08-2025 Maa Jee Scholarship (Only for First Year Newly admitted Students Engineering  Non Engineeri ng Departments ) The sponsor of subject scholarship intends to award scholarships for Firs t Year students of Engineering De partments on Need -Cum -Merit Basis. In this connection, you are requested to kindly forward nominations pertaining males and female s in the attached prescribed application form. Photocopy of prescribed Application Form is attached for distribution  Circulation amongst the interested students. The applications along -with necessary documents may please be forwarded by the respective Class Advisor through the concerned Chairman to Student Affairs Department, at Students Facilities Centre on  before 04-09-2025 for further process. The required documents as mentioned in the application form must be attached. Incomplete applica tions will not be entertained . N.B. 1-The application form completed in all respect must be considered and entertained . 2-Students admitted under Self Finance scheme are not eligible for this scholarship. 3-The applicants m ust not getting scholarship  financial assistance from any other source. Controller Student Affairs Copy to: Concerned Class Advisors (through Respective Chairpersons )",
+    "chunks_by_characters": [
+        {
+            "chunk_id": 0,
+            "text": "Ned University Of Engineering  Technology Department of StuDentS affairS No. DSA70097 Dated: 18-08-2025 Maa Jee Scholarship (Only for First Year Newly admitted Students Engineering  Non Engineeri ng Departments ) The sponsor of subject scholarship intends to award scholarships for Firs t Year students of Engineering De partments on Need -Cum -Merit Basis. In this connection, you are requested to kindly forward nominations pertaining males and female s in the attached prescribed application form.",
+            "start_pos": 0,
+            "end_pos": 500,
+            "length": 500
+        },
+        {
+            "chunk_id": 1,
+            "text": "indly forward nominations pertaining males and female s in the attached prescribed application form. Photocopy of prescribed Application Form is attached for distribution  Circulation amongst the interested students. The applications along -with necessary documents may please be forwarded by the respective Class Advisor through the concerned Chairman to Student Affairs Department, at Students Facilities Centre on  before 04-09-2025 for further process. The required documents as mentioned in the ",
+            "start_pos": 400,
+            "end_pos": 900,
+            "length": 500
+        },
+        {
+            "chunk_id": 2,
+            "text": "lities Centre on  before 04-09-2025 for further process. The required documents as mentioned in the application form must be attached. Incomplete applica tions will not be entertained . N.B. 1-The application form completed in all respect must be considered and entertained . 2-Students admitted under Self Finance scheme are not eligible for this scholarship. 3-The applicants m ust not getting scholarship  financial assistance from any other source. Controller Student Affairs Copy to: Concerned C",
+            "start_pos": 800,
+            "end_pos": 1300,
+            "length": 500
+        },
+        {
+            "chunk_id": 3,
+            "text": "larship  financial assistance from any other source. Controller Student Affairs Copy to: Concerned Class Advisors (through Respective Chairpersons )",
+            "start_pos": 1200,
+            "end_pos": 1348,
+            "length": 148
+        }
+    ],
+    "chunks_by_sentences": [
+        {
+            "chunk_id": 0,
+            "text": "Ned University Of Engineering  Technology Department of StuDentS affairS No. DSA70097 Dated: 18-08-2025 Maa Jee Scholarship (Only for First Year Newly admitted Students Engineering  Non Engineeri ng Departments ) The sponsor of subject scholarship intends to award scholarships for Firs t Year students of Engineering De partments on Need -Cum -Merit Basis. In this connection, you are requested to kindly forward nominations pertaining males and female s in the attached prescribed application form.",
+            "sentence_range": "0-3",
+            "length": 500
+        },
+        {
+            "chunk_id": 1,
+            "text": "Photocopy of prescribed Application Form is attached for distribution  Circulation amongst the interested students. The applications along -with necessary documents may please be forwarded by the respective Class Advisor through the concerned Chairman to Student Affairs Department, at Students Facilities Centre on  before 04-09-2025 for further process. The required documents as mentioned in the application form must be attached.",
+            "sentence_range": "3-6",
+            "length": 433
+        },
+        {
+            "chunk_id": 2,
+            "text": "Incomplete applica tions will not be entertained . N.B. 1-The application form completed in all respect must be considered and entertained .",
+            "sentence_range": "6-9",
+            "length": 140
+        },
+        {
+            "chunk_id": 3,
+            "text": "2-Students admitted under Self Finance scheme are not eligible for this scholarship. 3-The applicants m ust not getting scholarship  financial assistance from any other source. Controller Student Affairs Copy to: Concerned Class Advisors (through Respective Chairpersons )",
+            "sentence_range": "9-12",
+            "length": 272
+        }
+    ]
+}
